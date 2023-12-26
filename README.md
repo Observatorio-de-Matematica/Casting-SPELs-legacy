@@ -9,8 +9,8 @@ No matter the programming language, some games can be implemented "everywhere" a
 
 Additionally, are two files intended to be part or be auxiliary to games; they are not complete, as far as i can see.
 
-EHP_hybrid.mc give calculations related to the game Path of Exile.
+EHP_hybrid.mc give calculations related to the game Path of Exile, the original repository is this one (https://github.com/avancouw/POE-EHP).
 
-uno.wxm tries to implement the card game UNO.
+uno.wxm tries to implement the card game UNO, the original repository is this one (https://github.com/MarioPatch/maxima).
 
 These files are placed here the same way they were left by their authors.
