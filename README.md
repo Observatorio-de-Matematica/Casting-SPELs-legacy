@@ -14,3 +14,5 @@ EHP_hybrid.mc give calculations related to the game Path of Exile, the original 
 uno.wxm tries to implement the card game UNO, the original repository is this one (https://github.com/MarioPatch/maxima).
 
 These files are placed here the same way they were left by their authors.
+
+P.D. GitHub automatically recognizes the .mc file extension as Monkey C! WTF!
